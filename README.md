@@ -1,2 +1,0 @@
-# Kiyopon
-Kiyopon Tea Testnet
